@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostsController PUT update with valid params" tests="3" time="0.023184" failures="0" errors="0" skipped="0">
+  <testcase name="PostsController PUT update with valid params updates the requested post" time="0.008946">
+  </testcase>
+  <testcase name="PostsController PUT update with valid params assigns the requested post as @post" time="0.00766">
+  </testcase>
+  <testcase name="PostsController PUT update with valid params redirects to the post" time="0.006088">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

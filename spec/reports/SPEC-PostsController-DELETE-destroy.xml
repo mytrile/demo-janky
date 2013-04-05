@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostsController DELETE destroy" tests="2" time="0.024048" failures="0" errors="0" skipped="0">
+  <testcase name="PostsController DELETE destroy redirects to the posts list" time="0.015802">
+  </testcase>
+  <testcase name="PostsController DELETE destroy destroys the requested post" time="0.007923">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

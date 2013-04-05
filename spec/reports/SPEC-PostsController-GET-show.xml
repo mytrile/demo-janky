@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostsController GET show" tests="1" time="0.006558" failures="0" errors="0" skipped="0">
+  <testcase name="PostsController GET show assigns the requested post as @post" time="0.006286">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

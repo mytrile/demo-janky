@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostsController routing" tests="7" time="0.012786" failures="0" errors="0" skipped="0">
+  <testcase name="PostsController routing routes to #destroy" time="0.001757">
+  </testcase>
+  <testcase name="PostsController routing routes to #update" time="0.001411">
+  </testcase>
+  <testcase name="PostsController routing routes to #edit" time="0.001487">
+  </testcase>
+  <testcase name="PostsController routing routes to #index" time="0.00122">
+  </testcase>
+  <testcase name="PostsController routing routes to #show" time="0.001453">
+  </testcase>
+  <testcase name="PostsController routing routes to #create" time="0.002091">
+  </testcase>
+  <testcase name="PostsController routing routes to #new" time="0.002316">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

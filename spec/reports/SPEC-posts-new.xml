@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="posts/new" tests="1" time="0.033795" failures="0" errors="0" skipped="0">
+  <testcase name="posts/new renders new post form" time="0.033049">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Post" tests="1" time="0.000414" failures="0" errors="0" skipped="1">
+  <testcase name="Post add some examples to (or delete) /Users/mytrile/code/tmp/sample_app/spec/models/post_spec.rb (PENDING)" time="0.000126">
+    <skipped/>
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

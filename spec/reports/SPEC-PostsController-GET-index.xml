@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostsController GET index" tests="1" time="0.006643" failures="0" errors="0" skipped="0">
+  <testcase name="PostsController GET index assigns all posts as @posts" time="0.006424">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
